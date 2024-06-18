@@ -1,5 +1,4 @@
 ### Hello friend 🤔
-⚡⚡Go to my site: war-s.github.io ⚡⚡
 <!--
 **WAR-S/WAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
